@@ -1,0 +1,68 @@
+body{
+    background-image: url(file:///C:/Users/hipho/Desktop/Codingchallenge/background.jpg);
+    background-size: 1920px;
+}
+
+.container{
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10%;    
+}
+.logo{
+    width: 250px;
+}
+
+.logo-text{
+    font-size: 35px;
+    color: #01c409;
+}
+nav{
+    background-color: #00dd00;
+    line-height: 30px;
+    border: 0;
+    width: 1000px;
+    height: 45px;
+    margin: 0em 0 0em;
+}
+span{
+color: white;
+}
+
+main{
+    text-align: left;
+  
+   
+    
+}
+button{
+    position: relative;
+    text-align: center;
+    margin: 1em 0 0em;
+    border: 0px solid;
+    
+}
+.quadrato1{
+    width: 380px;
+    height: 25px;
+    background-color: #f5b453;
+    border-radius: 5px;
+}
+.quadrato2{
+    width: 620px;
+    height: 25px;
+    background-color: #1ec31e;
+    border-radius: 5px;
+}
+.quadrato6{
+    background-color: gray;
+}
+.quadrato3{
+    width: 128px;
+    height: 25px;
+    background-color: #be4141;
+    border-radius: 5px;
+
+}
